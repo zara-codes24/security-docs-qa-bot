@@ -62,3 +62,7 @@ The bot was tested against 5 fixed questions to verify retrieval and answer qual
 ## 📝 License
 
 This project is for educational and portfolio purposes.
+
+## 🌐 Live Demo
+
+Try it here: [security-docs-app-bot-fnsjd33yeyvhanst76kqty.streamlit.app](https://security-docs-app-bot-fnsjd33yeyvhanst76kqty.streamlit.app/)
