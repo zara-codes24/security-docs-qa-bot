@@ -26,7 +26,7 @@ Upload any security-related PDF (policy document, threat report, compliance guid
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/security-docs-qa-bot.git
+git clone https://github.com/zara-codes24/security-docs-qa-bot.git
 cd security-docs-qa-bot
 
 # 2. Create virtual environment
