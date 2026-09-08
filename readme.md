@@ -1,10 +1,10 @@
 # 🔒 Security Docs Q&A Bot
 
-A Retrieval-Augmented Generation (RAG) chatbot that answers questions about security documents (PDFs) using semantic search and LLM-powered responses.
+A Retrieval-Augmented Generation (RAG) chatbot that answers questions about security documents (PDFs) using semantic search and LLM powered responses.
 
 ## 🎯 What It Does
 
-Upload any security-related PDF (policy document, threat report, compliance guide) and ask natural language questions about it. The bot retrieves the most relevant sections and generates accurate, context-grounded answers — instead of relying on the LLM's general knowledge alone.
+Upload any security related PDF (policy document, threat report, compliance guide) and ask natural language questions about it. The bot retrieves the most relevant sections and generates accurate, context-grounded answers — instead of relying on the LLM's general knowledge alone.
 
 ## 🛠️ Tech Stack
 
