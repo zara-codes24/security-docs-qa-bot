@@ -11,7 +11,7 @@ Upload any security related PDF (policy document, threat report, compliance guid
 - **LangChain**: document processing and orchestration
 - **ChromaDB**: vector database for storing embeddings
 - **HuggingFace Sentence Transformers**  free local embeddings (`all-MiniLM-L6-v2`)
-- **Groq API** — fast, free LLM inference (`llama-3.1-8b-instant`)
+- **Groq API** fast, free LLM inference (`llama-3.1-8b-instant`)
 - **Streamlit** — interactive web UI
 
 ## 🏗️ How It Works
